@@ -1,0 +1,26 @@
+.country img{
+    width: 100%;
+    height: 50%;
+}
+.country{
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    gap: 1rem;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+.country p{
+    font-size: 18px;
+}
+
+.country button {
+    padding: 10px;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.country-visited{
+    background-color: aquamarine;
+}

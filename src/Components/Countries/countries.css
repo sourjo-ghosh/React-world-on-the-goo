@@ -1,0 +1,17 @@
+.countries{
+    /*border: 1px solid #16171d;*/
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 25px;
+    padding: 10px;
+    margin: 0;
+    gap: 1rem;
+}
+.countryContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+
