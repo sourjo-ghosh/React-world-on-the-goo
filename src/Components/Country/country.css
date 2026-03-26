@@ -7,7 +7,7 @@
     flex-direction: column;
     align-items: center; */
     gap: 1rem;
-    border: 1px solid gray;
+    border: 1px solid red;
     padding: 15px;
     border-radius: 10px;
 }
@@ -17,8 +17,9 @@
 
 .country button {
     padding: 10px;
-    border: 1px solid silver;
+    border: 1px solid lightcoral;
     border-radius: 10px;
+    margin-right: 10px;
 }
 
 .country-visited{
